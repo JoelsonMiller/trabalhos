@@ -1,0 +1,2 @@
+gcc -o contador contador.c -lpthread
+./contador
