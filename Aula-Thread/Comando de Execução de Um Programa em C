@@ -1,2 +1,2 @@
-gcc -o contador contador.c -lpthread
-./contador
+gcc -o threads threads.c -lpthread
+./threads
