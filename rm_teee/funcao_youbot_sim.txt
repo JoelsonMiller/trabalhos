@@ -1,0 +1,1 @@
+simExtROS_enablePublisher("/vrep/pose",1,simros_strmcmd_get_object_pose ,simGetObjectHandle("base_link"),simGetObjectHandle("world_frame"), '')
